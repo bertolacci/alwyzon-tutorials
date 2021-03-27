@@ -34,5 +34,7 @@ Please, always end with a conclusiion.
 This section is optional, but please include it if you have any further references you might want to add.
 
 - [Getting Started with Markdown](https://www.markdownguide.org/getting-started/)
-- [Alwyzon Virtual Servers](https://www.alwyzon.com/)
+- [Typora Markdown Editor (free)](https://typora.io)
+- [Ulysses App for macOS (paid)](https://ulysses.app)
+- [Atom, Free & Open-Source Editor](https://atom.io)
 

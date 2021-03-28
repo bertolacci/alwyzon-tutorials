@@ -1,4 +1,4 @@
-Authors: Giacinto Bertolacci
+Authors: Giacinto Bertolacci <https://github.com/bertolacci>
 Published at: 2021-03-28T12:33Z
 Tags: NGINX, Websites, Debian, Guides
 
